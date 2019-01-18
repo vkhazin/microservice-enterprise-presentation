@@ -3,7 +3,8 @@
 
 // Run button configuration
   "commands": {
-        "Serve": "gitbook serve"
+    "Serve": "gitbook serve",
+    "Publish": "git add --all && git commit -m 'publishing' && git push"
   },
 
 // Preview button configuration
