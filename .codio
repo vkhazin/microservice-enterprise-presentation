@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Serve": "gitbook serve"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL": "http://{{domain4000}}/"
+  }
+}
