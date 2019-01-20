@@ -1,4 +1,4 @@
-# History of Micro-services
+# History
 
 * Dr. Peter Rodgers introduced the term "Micro-Web-Services" during a presentation at the [Web Services Edge conference in 2005](Dr. Peter Rodgers introduced the term "Micro-Web-Services" during a presentation at the Web Services Edge conference in 2005)
 * Mentioned at workshop near [Venice in year 2011](https://dzone.com/articles/microservices-vs-soa-is-there-any-difference-at-al)

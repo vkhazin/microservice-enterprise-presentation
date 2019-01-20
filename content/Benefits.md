@@ -1,4 +1,4 @@
-# Benefits of Micro-services
+# Benefits
 
 ![breakdown](./media/Breakdown.png)
 
