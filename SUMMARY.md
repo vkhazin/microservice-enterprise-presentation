@@ -2,5 +2,6 @@
 
 * [Introduction](README.md)
 * [Benefits](./content/Benefits.md)
-* [History](./content/History.md)
+* [History](./content/Alternatives.md)
+* [Alternatives](./content/History.md)
 
