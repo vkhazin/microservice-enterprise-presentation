@@ -4,6 +4,5 @@
 
 * We see the potential benefits of micro-services, but...
 * Our organization is not ready for micro-services
-* Soa is working just fine for us
-* DevOps practices must be established first
+* Soap, Monolith, or Akka  works just fine, look elsewhere to improve
 * Real men don't write unit tests
