@@ -11,7 +11,7 @@
         <li>Http is an inefficient protocol</li>
         <li>Message driven is confusing to developers</li>
         <li>We have no need for a polyglot programming - we are a Java/.Net shop</li>
-        <li>We are not Goolge, Amazon, or Apple - an annual release cycle works for us</li>
+        <li>We are not Google, Amazon, or Apple - an annual release cycle works for our customers</li>
         <li>How do we make sure there is a VPN tunnel between every micro-service?</li>
        </ul>
     </td>
