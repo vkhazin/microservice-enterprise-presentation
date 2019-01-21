@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "gitbook": "^3.2.2",
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-footer": "^0.0.6",
-    "surge": "^0.19.0"
+    "gitbook": "3.2.2",
+    "gitbook-cli": "2.3.2",
+    "gitbook-plugin-footer": "0.0.6",
+    "surge": "0.19.0"
   },
   "devDependencies": {},
   "author": "Vlad Khazin",
