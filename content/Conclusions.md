@@ -1,8 +1,10 @@
 # Conclusions
 
-### We are fine! ... until we need another job ...
+### We are fine, just the way we are!
 
-![](./media/WeAreFine.jpg)
+![](./media/ComputeEvolution.jpg)
+
+_Until we join the list of Blockbuster (2010), Kodak (2012), Sears (2018)..._
 
 ### Thank you!
 https://www.linkedin.com/in/vkhazin

@@ -3,6 +3,6 @@
 ![](./media/WeAreNotReady.png)
 
 * We see the potential benefits of micro-services, but...
-* Our organization is not ready for micro-services
+* Our organization is not ready for micro-services!
 * Soap, Monolith, or Kubernetes  works just fine, look elsewhere to innovate
-* Real men don't write unit tests
+* [Real men don't write unit tests!](https://www.linkedin.com/in/darien/)
